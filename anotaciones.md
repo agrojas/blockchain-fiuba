@@ -17,5 +17,15 @@ Contexto dApp
 App web +  App en solidity en eth
 
 REdes eth
-- Main (Prod)
-- Testnets
+- Prod (Main)
+- Testnets (rinkeby)
+
+
+Meta account
+
+https://faucet.rinkeby.io/ -> free $$$ testnet
+
+twit to money 
+
+
+etherscan rinkeby -> search transaction by address
